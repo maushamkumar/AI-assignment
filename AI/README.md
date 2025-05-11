@@ -46,13 +46,13 @@ This is a modular implementation of a RAG (Retrieval Augmented Generation) power
 
 2. Create a Virtual Environment
     ```bash
-  conda create --name myenv python=3.9
+    conda create --name myenv python=3.9
     ```
-4. Install dependencies:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-5. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
+4. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
 
 ## Usage
 

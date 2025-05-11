@@ -41,12 +41,12 @@ This is a modular implementation of a RAG (Retrieval Augmented Generation) power
 
 1. Clone the repository
    ```bash
-   cd AI ```
+   cd AI
+   ```
 
 2. Create a Virtual Environment
     ```bash
   conda create --name myenv python=3.9
-
     ```
 4. Install dependencies:
    ```bash

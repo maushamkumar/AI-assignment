@@ -1,0 +1,29 @@
+# Core dependencies
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface>=0.0.1
+langchain-text-splitters>=0.0.1
+
+# Document processing
+pyPDF2>=3.0.0
+pdfminer.six>=20221105
+unstructured>=0.10.0
+
+# Embeddings and Vector Store
+faiss-cpu>=1.7.4  # Use faiss-gpu for GPU support
+sentence-transformers>=2.2.2
+
+# HuggingFace models
+transformers>=4.30.0
+torch>=2.0.0
+huggingface-hub>=0.16.4
+
+# UI
+streamlit>=1.25.0
+
+# NLP tools
+nltk>=3.8.1
+
+# Utilities
+python-dotenv>=1.0.0
+numpy>=1.24.0

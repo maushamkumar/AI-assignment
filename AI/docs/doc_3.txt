@@ -1,0 +1,6 @@
+Name: EcoLight Solar Lamp  
+Specs:
+- Battery: 10 000 mAh Li-Ion  
+- Light modes: High (500 lm), Medium (300 lm), SOS (flashing)  
+- Runtime: up to 12 hrs on High  
+- Charging: solar + USB-C

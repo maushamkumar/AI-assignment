@@ -1,0 +1,6 @@
+Name: SmartHub Home Controller  
+Specs:
+- CPU: Quad-core ARM Cortex-A53  
+- Connectivity: Wi-Fi 6, Bluetooth 5.2, Zigbee  
+- Power: 5 V/2 A adapter  
+- Features: voice control, IFTTT integration

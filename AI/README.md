@@ -44,15 +44,19 @@ This is a modular implementation of a RAG (Retrieval Augmented Generation) power
    cd AI
    ```
 
-2. Create a Virtual Environment
+2. Create a Virtual environment
     ```bash
     conda create --name myenv python=3.9
     ```
-3. Install dependencies:
+3. To activate this environment, use
+    ```bash
+    conda activate myenv
+    ```
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
+5. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
 
 ## Usage
 

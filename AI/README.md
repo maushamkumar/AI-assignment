@@ -40,12 +40,19 @@ This is a modular implementation of a RAG (Retrieval Augmented Generation) power
 ## Installation
 
 1. Clone the repository
-   ```cd AI ```
-3. Install dependencies:
+   ```bash
+   cd AI ```
+
+2. Create a Virtual Environment
+    ```bash
+  conda create --name myenv python=3.9
+
+    ```
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
+5. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
 
 ## Usage
 

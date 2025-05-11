@@ -40,11 +40,12 @@ This is a modular implementation of a RAG (Retrieval Augmented Generation) power
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
+   ```cd AI ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
+4. Copy `.env.template` to `.env` and add your HuggingFace API token if needed
 
 ## Usage
 
